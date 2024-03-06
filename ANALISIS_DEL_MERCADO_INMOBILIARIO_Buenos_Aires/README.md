@@ -18,6 +18,8 @@ https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_I
 
 [![test](https://img.shields.io/badge/Notebook%2001-8A2BE2
 
+![Static Badge](https://img.shields.io/badge/Notebook%2001%20-%208A2BE2)
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/dani-ctes)
