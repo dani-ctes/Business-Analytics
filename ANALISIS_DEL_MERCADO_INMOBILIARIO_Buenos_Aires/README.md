@@ -3,7 +3,7 @@
 
 <img src='https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/airbnb.png' align='right'>
 
-El presente proyecto tiene como objetivo analizar los datos que el líder del sector AirBnb (http://insideairbnb.com/get-the-data/), e intentar encontrar los tipos de inmuebles que tienen mayor potencial comercial para alquier turístico.
+El presente proyecto tiene como objetivo analizar los datos del líder del sector, a lo referente de alquiler termporal, AirBnb. Y pretende focalizar aquellos inmuebles que tienen mayor potencial comercial para alquier turístico o temporal.
 
 Como entregable principal esperan la tipología (o tipologías) de inmuebles que el equipo de valoraciones debe buscar entre las oportunidades existentes en la ciudad y los principales barrios o zonas geográficas en las que focalizarse.
 
