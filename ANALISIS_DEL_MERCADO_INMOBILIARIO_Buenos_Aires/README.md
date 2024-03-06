@@ -9,16 +9,7 @@ Como entregable principal esperan la tipología (o tipologías) de inmuebles que
 
 Para cumplir con el objetivo aplicaremos la metodología de Discovery y las técnicas de Business Analytics.
 
-<p><a href="http://example.net/](https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/Notebooks/01_Dise%C3%B1o%20del%20Proyecto.ipynb">This link</a> has no
-title attribute.</p>
-
-https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/Notebooks/01_Dise%C3%B1o%20del%20Proyecto.ipynb
-
-[![Static Badge](https://img.shields.io/badge/Notebook%2001)](https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/Notebooks/01_Dise%C3%B1o%20del%20Proyecto.ipynb)
-
-[![test](https://img.shields.io/badge/Notebook%2001-8A2BE2
-
-[![Static Badge](https://img.shields.io/badge/Notebook%2001%20-%208A2BE2)](https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/Notebooks/01_Dise%C3%B1o%20del%20Proyecto.ipynb)
+Ir al [![Static Badge](https://img.shields.io/badge/Notebook%2001%20-%208A2BE2)](https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/Notebooks/01_Dise%C3%B1o%20del%20Proyecto.ipynb)
 
 
 ## 🔗 Links
