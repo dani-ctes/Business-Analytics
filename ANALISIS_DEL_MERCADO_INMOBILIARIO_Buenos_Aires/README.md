@@ -1,15 +1,9 @@
 # ANALISIS DEL MERCADO INMOBILIARIO DE LA CIUDAD AUTONOMA DE BUENOS AIRES (CABA)
 
-<img src='https://github.com/dani-ctes/Business-Analytics/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/airbnb.png' width='300' align='right'>
 
 <img src='https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/airbnb.png'>
 
-ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/airbnb.png
 
-<br>- <a href="https://github.com/dani-ctes/Machine_Learning/tree/main/Forecast_US-energy" target="_blank">Forecast US-energy</a> </br>
-<br>- <a href="https://github.com/dani-ctes/Machine_Learning/tree/main/Spaceship_Titanic" target="_blank">Spaceship Titanic</a></br>
-<br>- <a href="https://github.com/dani-ctes/Machine_Learning/blob/main/Deptos_CABA_2016" target="_blank">Departamentos en venta CABA 2016</a></br>
-<br>- <a href="https://github.com/dani-ctes/Machine_Learning/" target="_blank">Analisis del Mercado Inmobiliario de Buenos Aires</a></br>
 <br></br>
 
 ## 🔗 Links
