@@ -14,7 +14,9 @@ title attribute.</p>
 
 https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/Notebooks/01_Dise%C3%B1o%20del%20Proyecto.ipynb
 
-![Static Badge](https://img.shields.io/badge/Notebook%2001)
+[![Static Badge](https://img.shields.io/badge/Notebook%2001)](https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/Notebooks/01_Dise%C3%B1o%20del%20Proyecto.ipynb)
+
+[![test](https://img.shields.io/badge/Notebook%2001-8A2BE2
 
 
 ## 🔗 Links
