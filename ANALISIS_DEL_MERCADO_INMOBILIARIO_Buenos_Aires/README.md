@@ -1,7 +1,7 @@
 # ANALISIS DEL MERCADO INMOBILIARIO DE LA CIUDAD AUTONOMA DE BUENOS AIRES (CABA)
 
 
-<img src='https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/airbnb.png' align='right'>
+<img src='https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/airbnb.png' width='300' align='right'>
 
 El presente proyecto tiene como objetivo analizar los datos del líder del sector, a lo referente de alquiler termporal, AirBnb. Y pretende focalizar aquellos inmuebles que tienen mayor potencial comercial para alquier turístico o temporal.
 
