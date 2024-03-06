@@ -8,6 +8,8 @@ El presente proyecto tiene como objetivo analizar los datos del líder del secto
 Como entregable principal esperan la tipología (o tipologías) de inmuebles que el equipo de valoraciones debe buscar entre las oportunidades existentes en la ciudad y los principales barrios o zonas geográficas en las que focalizarse.
 
 Para cumplir con el objetivo aplicaremos la metodología de Discovery y las técnicas de Business Analytics.
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/dani-ctes)
 <br></br>
 
 ## 🔗 Links
