@@ -1,0 +1,14 @@
+# ANALISIS DEL MERCADO INMOBILIARIO DE LA CIUDAD AUTONOMA DE BUENOS AIRES (CABA)
+<img src='https://github.com/dani-ctes/Business-Analytics/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/blob/main/airbnb.jpeg' width='300' align='right'>
+
+
+
+<br>- <a href="https://github.com/dani-ctes/Machine_Learning/tree/main/Forecast_US-energy" target="_blank">Forecast US-energy</a> </br>
+<br>- <a href="https://github.com/dani-ctes/Machine_Learning/tree/main/Spaceship_Titanic" target="_blank">Spaceship Titanic</a></br>
+<br>- <a href="https://github.com/dani-ctes/Machine_Learning/blob/main/Deptos_CABA_2016" target="_blank">Departamentos en venta CABA 2016</a></br>
+<br>- <a href="https://github.com/dani-ctes/Machine_Learning/" target="_blank">Analisis del Mercado Inmobiliario de Buenos Aires</a></br>
+<br></br>
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/dani-ctes)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o-daniel-torres-50480922/)
