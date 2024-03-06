@@ -1,5 +1,5 @@
 # ANALISIS DEL MERCADO INMOBILIARIO DE LA CIUDAD AUTONOMA DE BUENOS AIRES (CABA)
-<img src='https://github.com/dani-ctes/Business-Analytics/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/blob/main/airbnb.jpeg' width='300' align='right'>
+<img src='https://github.com/dani-ctes/Business-Analytics/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/airbnb.jpeg width='300' align='right'>
 
 
 
