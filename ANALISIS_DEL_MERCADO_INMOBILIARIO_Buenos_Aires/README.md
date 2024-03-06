@@ -10,9 +10,9 @@ Como entregable principal esperan la tipología (o tipologías) de inmuebles que
 Para cumplir con el objetivo aplicaremos la metodología de Discovery y las técnicas de Business Analytics.
 
 
-Acceder al [Notebook_01: DISEÑO DEL PROYECTO](https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/Notebooks/01_Diseño del Proyecto.ipynb).
+Acceder al [Notebook_01: DISEÑO DEL PROYECTO](https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/Notebooks/01_Diseño del Proyecto.ipynb "Title").
 
-This is [an example](http://example.com/ "Title") inline link.
+This is [an example]([http://example.com/](https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/Notebooks/01_Diseño del Proyecto.ipynb) "Title") inline link.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/dani-ctes)
