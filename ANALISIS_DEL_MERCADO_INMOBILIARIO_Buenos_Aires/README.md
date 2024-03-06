@@ -14,6 +14,9 @@ title attribute.</p>
 
 https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/Notebooks/01_Dise%C3%B1o%20del%20Proyecto.ipynb
 
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat-square&logo=bitcoin&logoColor=rgb)
+
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/dani-ctes)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o-daniel-torres-50480922/)
