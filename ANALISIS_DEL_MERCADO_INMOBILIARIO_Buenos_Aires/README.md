@@ -13,6 +13,9 @@ Para cumplir con el objetivo aplicaremos la metodología de Discovery y las téc
 
 [![Static Badge](https://img.shields.io/badge/Notebook%2002%20-%208A2BE2)](https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/Notebooks/02_Analisis%20de%20ficheros%20y%20preparacion%20del%20caso.ipynb)
 
+[![Static Badge](https://img.shields.io/badge/Notebook%2003%20-%208A2BE2)](https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/Notebooks/03_Creacion%20del%20datamart%20analitico.ipynb)
+
+[![Static Badge](https://img.shields.io/badge/Notebook%2004%20-%208A2BE2)](https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/Notebooks/04_Preparacion%20de%20datos.ipynb)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/dani-ctes)
