@@ -17,6 +17,11 @@ Para cumplir con el objetivo aplicaremos la metodología de Discovery y las téc
 
 [![Static Badge](https://img.shields.io/badge/Notebook%2004%20-%208A2BE2)](https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/Notebooks/04_Preparacion%20de%20datos.ipynb)
 
+[![Static Badge](https://img.shields.io/badge/Notebook%2005%20-%208A2BE2)](https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/Notebooks/05_Analisis%20e%20Insights.ipynb)
+
+
+[![Static Badge](https://img.shields.io/badge/Notebook%2006%20-%208A2BE2)](https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/Notebooks/06_Comunicacion%20de%20resultados.ipynb)
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/dani-ctes)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o-daniel-torres-50480922/)
