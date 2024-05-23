@@ -7,6 +7,11 @@ En cuanto a los productos, se extrayeron los productos mas vistos y mas vendidos
 
 [![Static Badge](https://img.shields.io/badge/Informe%20-%208A2BE2)](https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_ECOMMERCE/An%C3%A1lisis%20de%20Ecommerce.pdf)
 
+## 🛠 Algunas de las tecnologías utilizadas:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NUMPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/dani-ctes)
