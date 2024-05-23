@@ -1,5 +1,5 @@
 <p>
-En este repositorio puedes encontrar algunos de mis trabajos realizados para análisis del negocio.
+En este repositorio puedes encontrar algunos de mis trabajos realizados con metodologías de Discovery y técnicas de Business Analytics.
 </p>
 
 ## Proyectos:
