@@ -8,7 +8,9 @@ In this repository you can find some of differents projects developed.
 </p>
 
 ## Projects:
-_The goal is analize the data of the sector leader, regarding temporary rentals, AIRBNB. And find apartments that have the greatest commercial potential for temporary rentals._
+
+### Analysis of the CABA real estate market
+_The goal in this project is analize the data of the sector leader, regarding temporary rentals, AIRBNB. And find apartments that have the greatest commercial potential for temporary rentals._
 
 [![Static Badge](https://img.shields.io/badge/Go%20ahead%20-%208A2BE2)](https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/Notebooks/01_Dise%C3%B1o%20del%20Proyecto.ipynb)
 
