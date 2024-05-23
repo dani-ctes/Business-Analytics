@@ -1,20 +1,15 @@
-## Hi there 👋, my name is Daniel
-
 <p>
-My goal is that you can get a vision of my jobs.
-</p>
-<p>
-In this repository you can find some of differents projects developed.
+En este repositorio puedes encontrar algunos de mis trabajos realizados para análisis del negocio.
 </p>
 
-## Projects:
+## Proyectos:
 
-### Analysis of the CABA real estate market
-_The goal in this project is analize the data of the sector leader, regarding temporary rentals, AIRBNB. And find apartments that have the greatest commercial potential for temporary rentals._
+### Análisis del mercado inmobiliario de CABA
+_El objetivo de este proyecto es analizar los datos del lider del sector, en cuanto a los alquileres temporales respecta, Airbnb. Y encontrar departamentos que tengan el mayor potencial comercial para alquileres temporales._
 
-[![Static Badge](https://img.shields.io/badge/Go%20ahead%20-%208A2BE2)](https://github.com/dani-ctes/Business-Analytics/blob/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires/Notebooks/01_Dise%C3%B1o%20del%20Proyecto.ipynb)
+[![Static Badge](https://img.shields.io/badge/Ir%20-%208A2BE2)](https://github.com/dani-ctes/Business-Analytics/tree/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires)
 
-## 🛠 Some technologies I use:
+## 🛠 Algunas de las tecnologías utilizadas:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
