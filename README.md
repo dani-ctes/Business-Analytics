@@ -5,9 +5,7 @@ En este repositorio puedes encontrar algunos de mis trabajos realizados para an�
 ## Proyectos:
 
 ### Análisis del mercado inmobiliario de CABA
-_El objetivo de este proyecto es analizar los datos del lider del sector, en cuanto a los alquileres temporales respecta, Airbnb. Y encontrar departamentos que tengan el mayor potencial comercial para alquileres temporales._
-
-[![Static Badge](https://img.shields.io/badge/Ir%20-%208A2BE2)](https://github.com/dani-ctes/Business-Analytics/tree/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires)
+_El objetivo de este proyecto es analizar los datos del lider del sector, en cuanto a los alquileres temporales respecta, Airbnb. Y encontrar departamentos que tengan el mayor potencial comercial para alquileres temporales._ [![Static Badge](https://img.shields.io/badge/Ir%20-%208A2BE2)](https://github.com/dani-ctes/Business-Analytics/tree/main/ANALISIS_DEL_MERCADO_INMOBILIARIO_Buenos_Aires)
 
 ## 🛠 Algunas de las tecnologías utilizadas:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
